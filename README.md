@@ -7,7 +7,7 @@
 ## Alunos: 
 Alyce
 
-Grazielle
+Graziele Carrascosa
 
 João Luiz
 
