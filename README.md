@@ -27,13 +27,13 @@ O projeto deve apresentar os as funcionalidades definidas pelas regras de negóc
 
 ### Possíveis temas:
 
-E-commerce;
+- E-commerce;
 
-Site para um pequeno negócio;
+- Site para um pequeno negócio;
 
-Site de pesquisa;
+- Site de pesquisa;
 
-Blog.
+- Blog.
 
 ## Observação:
 
