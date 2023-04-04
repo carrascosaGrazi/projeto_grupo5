@@ -4,9 +4,13 @@
 
 ## Alunos: 
 Alyce
+
 Grazielle
+
 João Luiz
+
 Louise
+
 Vitor
 
 ## Sobre o trabalho:
