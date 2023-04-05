@@ -15,5 +15,6 @@ Desenvolver um site para uma ONG, chamada que tem como missão tirar o maior nú
 - ONG fictícia;
 - Sites que usamos para inspiração:
 https://www.caosemdono.com.br/quem-somos
+
 https://www.adotepetz.com.br/
 - As imagens são ilustrativas. Ao longo do projeto, as páginas serão editadas com logo, imagens, texto, links, etc.
