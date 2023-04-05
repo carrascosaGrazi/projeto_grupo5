@@ -4,6 +4,23 @@
 Desenvolver um site para uma ONG, chamada que tem como missão tirar o maior número possível de animais das ruas, dar tratamento adequado e integrá-los a famílias que lhes deem amor, carinho e uma vida digna.
 
 
+## Ideias debatidas
+
+- criação de loja virtual para ajudar no trabalho da ONG;
+
+- adoção à distância;
+
+- criação de rede de voluntários e apoiadores;
+
+- conscientizar a sociedade sobre o tema e as consequências do abandono dos animais.
+
+* As ideias serão debatidas e modeladas ao longo do projeto.
+
+## Metodologias usadas pelo grupo:
+
+Brainstorming
+
+
 ## Ferramentas usadas pelo grupo
 - Canvas;
 
