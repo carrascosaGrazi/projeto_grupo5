@@ -19,6 +19,5 @@ https://www.adotepetz.com.br/
 ## Observações:
 
 - ONG fictícia;
-- Sites que usamos para inspiração:
 
 - As imagens são ilustrativas. Ao longo do projeto, as páginas serão editadas com logo, imagens, texto, links, etc.
