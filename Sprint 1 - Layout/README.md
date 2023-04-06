@@ -3,6 +3,8 @@
 ## Tema do projeto
 Desenvolver um site para uma ONG, chamada que tem como missão tirar o maior número possível de animais das ruas, dar tratamento adequado e integrá-los a famílias que lhes deem amor, carinho e uma vida digna.
 
+## Prazo
+05/04/2023
 
 ## Ideias debatidas
 
@@ -23,7 +25,7 @@ Desenvolver um site para uma ONG, chamada que tem como missão tirar o maior nú
 - Scrum.
 
 ## Ferramentas usadas pelo grupo
-- Canvas;
+- Canva;
 
 - Discord;
 
