@@ -18,8 +18,9 @@ Desenvolver um site para uma ONG, chamada que tem como missão tirar o maior nú
 
 ## Metodologias usadas pelo grupo:
 
-Brainstorming
+- Brainstorming;
 
+- Scrum.
 
 ## Ferramentas usadas pelo grupo
 - Canvas;
