@@ -1,5 +1,13 @@
 # Sprint 1 - Layout
 
+## Objetivo:
+- Desenvolver o layout de pelo menos 5 telas do site, uma vez que cada grupo terá em média 5 integrantes
+
+- Criar repositório remoto com todos os colaboradores do grupo com as referências do layout, que pode ser feito desde à mão até figma,
+
+- O projeto deve apresentar os as funcionalidades definidas pelas regras de negócio do tema proposto.
+
+
 ## Tema do projeto
 Desenvolver um site para uma ONG, chamada que tem como missão tirar o maior número possível de animais das ruas, dar tratamento adequado e integrá-los a famílias que lhes deem amor, carinho e uma vida digna.
 
