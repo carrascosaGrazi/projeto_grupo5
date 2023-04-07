@@ -4,11 +4,6 @@
 12/04/2023
 
 
-## Referências:
-https://www.caosemdono.com.br
-
-https://www.ongacaovida.org.br/sobrenos
-
 ## Objetivo:
 
 ## Prazo
@@ -18,9 +13,12 @@ https://www.ongacaovida.org.br/sobrenos
 
 ## Ferramentas usadas pelo grupo
 
+
 ## Sites de referência:
 https://www.caosemdono.com.br/quem-somos
 
 https://www.adotepetz.com.br/
+
+https://www.ongacaovida.org.br/sobrenos
 
 ## Observações:
