@@ -16,7 +16,7 @@
  
 - definir participação de cada um
 
-- eliminar página "Parceiros", e colocar ícone de empresas parceiras na página inicial?
+- "Parceiros" não será uma pagina inteira, mas vamos manter
 
 - o que fazer com a página "Central de Ajuda"? 
     - Deixar como está?
