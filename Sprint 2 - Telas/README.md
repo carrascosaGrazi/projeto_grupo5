@@ -35,8 +35,9 @@ https://www.ongatitudesocial.com/contato
 Em reunião no dia 08/04/2023 ficou decidido que a equipe se subdividiria para atender as demandas de construção do html, construção de conteúdo do site, apresentação para entrega da sprint e layout/design.
 
 Dessa forma, foi subdividido da seguinte maneira:
-> grazi e louise(?): conteudo
-> alyce: design
-> vitor e joao: html
+* grazi e louise(?): conteúdo
+* alyce: design
+* vitor e joao: html
 
 Também foi apresentada ideias de assinatura mensal para o apadrinhamento.
+
