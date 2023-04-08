@@ -14,7 +14,10 @@
 
 - definir conteúdo das paginas para organização 
  
-- definir participação de cada um
+- definido participação de cada um (sprint 2):
+> grazi e louise: estruturar conteudo
+> alyce: design
+> vitor e joao: html
 
 - "Parceiros" não será uma pagina inteira, mas vamos manter
 
