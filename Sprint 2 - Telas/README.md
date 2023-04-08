@@ -7,13 +7,20 @@
 ## Objetivo:
 Criar o html para a ideia construida na 1ª sprint.
 
-## Prazo
+## Prazo:
 12/04/2023
 
 ## Metodologias usadas pelo grupo:
+* Brainstorming;
+* Scrum.
 
-## Ferramentas usadas pelo grupo
-
+## Ferramentas usadas pelo grupo:
+* Canva;
+* Discord;
+* Git;
+* Google Drive;
+* VS Code;
+* Whatsapp.
 
 ## Sites de referência:
 https://www.caosemdono.com.br/quem-somos
