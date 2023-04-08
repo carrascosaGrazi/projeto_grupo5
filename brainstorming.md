@@ -11,9 +11,9 @@
 
 ## Sprint 2:
 - ideia nova: assinatura mensal de apadrinhamento
-- 
+
 - definir conteúdo das paginas para organização 
-- 
+ 
 - definir participação de cada um
 
 - eliminar página "Parceiros", e colocar ícone de empresas parceiras na página inicial?
