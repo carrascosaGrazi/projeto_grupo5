@@ -11,6 +11,8 @@
 
 ## Sprint 2:
 - ideia nova: assinatura mensal de apadrinhamento
+    - ideias: apradinhamento a distância - mensal, anual e única
+    - pessoa escolhe o valor, pix ou cartão    
 
 - definir conteúdo das paginas para organização 
  
@@ -25,3 +27,9 @@
     - Deixar como está?
     - entrar em outra página?
 
+- ideia para discutir: mapa da adoção
+    - o que é: usuário do site pode apontar que quer doar, onde está
+    - objetivo: aproximar quem precisa de quem pode ajudar
+    - referência: https://mapafome.com.br/
+    - seria apenas uma funcionalidade dentro do site, não o principal
+    - pessoa poderia colocar que precisa de ajuda para alimentar seu pet, gastos com veterinário, etc
