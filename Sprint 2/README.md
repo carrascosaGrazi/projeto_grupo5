@@ -7,12 +7,11 @@
 ## Objetivo:
 Criar o html para a ideia construida na 1ª sprint.
 
-## Prazo:
-12/04/2023
 
 ## Metodologias usadas pelo grupo:
 * Brainstorming;
 * Scrum.
+
 
 ## Ferramentas usadas pelo grupo:
 * Canva;
@@ -40,9 +39,15 @@ https://www.abpabahia.org.br/
 Em reunião no dia 08/04/2023 ficou decidido que a equipe se subdividiria para atender as demandas de construção do html, construção de conteúdo do site, apresentação para entrega da sprint e layout/design.
 
 Dessa forma, foi subdividido da seguinte maneira:
-* grazi e louise(?): conteúdo
-* alyce: design
-* vitor e joao: html
+* Grazi e Louise: conteúdo
+* Alyce: design
+* Vitor e Joao: html
 
-Também foi apresentada ideias de assinatura mensal para o apadrinhamento.
+## Ideias debatidas
+* Foi apresentada ideias de assinatura mensal para o apadrinhamento.
+  * Para facilitar a contribuição, o valor poderia ser cobrado via cartão de crédito, de forma recorrente;
+
+* Outra ideia apresentada para discussão, planejamento, edição foi a do Mapa da Adoção.
+  * Nele, o usuário pode marcar se quer ajudar, se precisa de ajuda, se está querendo adotar, se está doando animal;
+  * Basta colocar o CEP e outra pessoa poderá entrar em contato.
 
