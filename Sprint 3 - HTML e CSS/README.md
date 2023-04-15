@@ -12,7 +12,7 @@
 
 
 ## Ferramentas usadas pelo grupo:
-
+Link de manual da marca (logomarca, imagens, fonte, padrão de cor) construído por Alyce: https://drive.google.com/drive/folders/1-9FFPio_1oqS1Z8oMFj2zyjc9ZmCOGMw?usp=share_link
 
 ## Sites de referência:
 
