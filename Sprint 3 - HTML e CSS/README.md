@@ -19,3 +19,5 @@ Link de manual da marca (logomarca, imagens, fonte, padrão de cor) construído 
 
 ## Relatório de reunião:
 13/04/2023 - https://docs.google.com/document/d/1TpyuCTFcb_N4dSkkvAq1R7aTNWhH_D423_FSDcyacsw/edit?usp=sharing
+
+15/04/2023 - https://docs.google.com/document/d/1MZzWs2k8uDw7ec1UvJdbEiMF17b9ePzfcAfMwHXSEoQ/edit?usp=sharing
