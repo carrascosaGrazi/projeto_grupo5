@@ -17,9 +17,9 @@
 - definir conteúdo das paginas para organização 
  
 - definido participação de cada um (sprint 2):
-> grazi e louise: estruturar conteudo
-> alyce: design
-> vitor e joao: html
+    - grazi e louise: estruturar conteudo
+    - alyce: design
+    - vitor e joao: html
 
 - "Parceiros" não será uma pagina inteira, mas vamos manter
 
@@ -33,3 +33,6 @@
     - referência: https://mapafome.com.br/
     - seria apenas uma funcionalidade dentro do site, não o principal
     - pessoa poderia colocar que precisa de ajuda para alimentar seu pet, gastos com veterinário, etc
+
+## Sprint 3:
+- elaborar um chatbot, para responder perguntas frequentes, baseadas no conteúdo produzido para o site.
