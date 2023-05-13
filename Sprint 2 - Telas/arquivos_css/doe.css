@@ -1,0 +1,118 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/* Inicio Header, parte superior da página*/
+header {
+  background-image: url(/Imagens/Header.png);
+  background-size: cover;
+  width: 100%;
+  display: flex;
+  height: 120px;
+}
+#logo img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+header div nav {
+  color: white;
+}
+
+#nav-bar {
+  width: 100%;
+  justify-content: center;
+}
+header ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+header li {
+  display: inline-block;
+  margin-right: 20px;
+  padding-top: 35px;
+  margin-right: 50px;
+}
+
+header li a {
+  display: block;
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+}
+
+header li a:hover {
+  background-color: #4f96e0;
+  color: white;
+}
+/* Final Header, parte superior da página*/
+/* Inicio main*/
+main {
+  background-color: #d4e4bc;
+  margin: 0 auto;
+  height: 485px;
+}
+.container {
+  margin: 0 50px;
+}
+h1 {
+  color: #6d454c;
+  padding-top: 20px;
+}
+main div section p {
+  margin-top: 20px;
+  width: 250px;
+  color: #585957;
+  font-size: 18px;
+}
+main div section h2 {
+  color: #585957;
+  font-size: 25px;
+}
+main div section img {
+  position: static;
+  margin: 80px 0 0 0;
+  width: 150px;
+  height: 120px;
+}
+/* Final main*/
+/* Inicio footer*/
+footer {
+  margin: 0 -100px 0 100px;
+  display: flex;
+}
+.coluna {
+  flex-basis: 33.33%;
+}
+footer ul {
+  list-style-type: none;
+}
+footer ul li {
+  padding: 5px;
+}
+footer a {
+  text-decoration: none;
+  color: #75779a;
+}
+footer img {
+  width: 170px;
+  height: 60px;
+  margin-top:5px;
+}
+.roxo {
+  color: purple;
+}
+footer h5 {
+  color: #6271f1;
+  font-size: 20px;
+  margin: 10px 0;
+}
+footer p {
+  color: #75779a;
+}
