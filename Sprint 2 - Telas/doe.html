@@ -8,56 +8,140 @@
     <title>Doe</title>
   </head>
   <body>
+    <!-- Início do cabeçalho -->
     <header>
-      <!---Inicio Logo-->
-        <div id="logo" >
-          <img
-            src="../Imagens/Logo.png"
-            width="200px"
-            height="200px"
-            alt=""
-          /><br />
-        </div>
-         <!---Fim Logo-->
-        <!---Inicio Nav-->
-        <div id="nav-bar" >
+      <!-- Logo -->
+      <div id="logo">
+        <img
+          src="../Imagens/Logo.png"
+          width="200px"
+          height="200px"
+          alt=""
+        /><br />
+      </div>
+
+      <!-- Barra de navegação -->
+      <div id="nav-bar">
         <nav>
-            <ul>
-              <li><a href="página inicial.html">Home</a></li>
-              <li><a href="sobre-nos.html">Sobre nós</a></li>
-              <li><a href="nossa_missão.html">Faça parte</a></li>
-              <li><a href="Doe.html">Doe</a></li>
-              <li><a href="como_adotar.html">Lojinha</a></li>
-              <li><a href="">Contato</a></li>
-            </ul>
-          </div>
+          <ul>
+            <li><a href="página inicial.html">Home</a></li>
+            <li><a href="sobre-nos.html">Sobre nós</a></li>
+            <li><a href="nossa_missão.html">Faça parte</a></li>
+            <li><a href="Doe.html">Doe</a></li>
+            <li><a href="como_adotar.html">Lojinha</a></li>
+            <li><a href="">Contato</a></li>
+          </ul>
         </nav>
-        <!---Fim Nav-->  
+      </div>
     </header>
 
+    <!-- Início do conteúdo principal -->
     <main>
       <div class="container">
         <section>
-          <div>
-            <img src="/Imagens/nome.png" alt="">
-            <h2>Faça a diferença na vida de cães e <br>gatos resgatados
-              sem sair de casa!</h2>
-              <p>Em poucos cliques, destine boas ações e doações de forma segura  para instituições especializadas na causa animal.</p>
-              <p>Conheça também outras formas de colaborar e cuidar:</p>
-
+          <div class="divisao">
+            <!-- Esquerda-->
+            <div>
+              <img src="/Imagens/nome.png" alt="" />
+              <h2>
+                Faça a diferença na vida de cães e <br />gatos resgatados sem
+                sair de casa!
+              </h2>
+              <p>
+                Em poucos cliques, destine boas ações e doações de forma segura
+                para instituições especializadas na causa animal.
+              </p>
+              <p>
+                "Adotar gatos e cachorros pode trazer muita alegria e amor para
+                sua vida, além de ajudar a salvar um animal abandonado."
+              </p>
+            </div>
           </div>
-          <div><!--fazer um form pro doe--></div>
+
+          <div class="divisao" style="margin-top: 20px">
+            <!-- Meio-->
+            <form>
+              <input type="radio" id="option1" name="options" />
+              <label><i></i></label>
+              <div class="image">
+                <img class="imagem" src="/Imagens/gato3.png" />
+              </div>
+              <input type="radio" id="option2" name="options" />
+              <label for="option2"><i></i></label>
+              <div class="image">
+                <img class="imagem" src="/Imagens/gato2.png" />
+              </div>
+              <input type="radio" id="option3" name="options" />
+              <label for="option3"><i></i></label>
+              <div class="image">
+                <img class="imagem" src="/Imagens/gato1.png" />
+              </div>
+            </form>
+          </div>
+
+          <div class="divisao">
+            <!-- Direita-->
+            <!-- Formulário de login e registro -->
+            <div class="centralizar">
+              <div class="formu">
+                <h3>Para Ajudar, faça login ou registro:</h3>
+
+                <form action="">
+                  <label for="nome">Nome Completo:</label>
+                  <input type="text" id="nome" name="nome" required /><br />
+
+                  <label for="email">E-mail:</label><br />
+                  <input type="email" id="email" name="email" required /><br />
+
+                  <label for="data_nascimento">Data de nascimento:</label><br />
+                  <input
+                    type="date"
+                    id="data_nascimento"
+                    name="data_nascimento"
+                    required
+                  /><br />
+
+                  <label for="endereco">Endereço Completo:</label><br />
+                  <input
+                    type="text"
+                    id="endereco"
+                    name="endereco"
+                    required
+                  /><br />
+
+                  <label for="senha">Senha:</label><br />
+                  <input
+                    type="password"
+                    id="senha"
+                    name="senha"
+                    required
+                  /><br />
+
+                  <label for="confirma_senha">Confirmar senha:</label><br />
+                  <input
+                    type="password"
+                    id="confirma_senha"
+                    name="confirma_senha"
+                    required
+                  /><br />
+
+                  <input type="submit" value="Registrar" />
+                  <input type="submit" value="Login" />
+                </form>
+              </div>
+            </div>
+          </div>
         </section>
-        
       </div>
     </main>
-    <hr />
+
+    <!-- Footer -->
     <footer>
       <div class="coluna">
         <h5>Amor com bigodes</h5>
-        <p>All Rights Reserved &copy; teamflow.com </p> 
+        <p>All Rights Reserved &copy; teamflow.com</p>
 
-        <img src="/Imagens/footer.png" alt="">
+        <img src="/Imagens/footer.png" alt="" />
       </div>
       <div class="coluna">
         <nav>
@@ -79,8 +163,6 @@
           </ul>
         </nav>
       </div>
-        
- 
     </footer>
   </body>
 </html>
