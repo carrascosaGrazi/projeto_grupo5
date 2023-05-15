@@ -21,6 +21,10 @@ header{
     color: white;
 }
 
+#aqui {
+    color: #fda7df;
+}
+
 #menu-principal{
     position: absolute;
     bottom: 1rem;
