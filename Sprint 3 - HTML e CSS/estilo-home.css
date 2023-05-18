@@ -31,21 +31,29 @@ header {
 }
 
 ul {
-  list-style: none;
-  display: flex;
-  justify-content: flex-end;
-  margin-right: 5%;
-  margin-bottom: 2%;
+    list-style: none;
+    display: flex;
+    margin-bottom: 2%;
+    justify-content: space-evenly;
 }
 
 li {
-  display: inline;
-  font-size: 1.2em;
-  margin: 1%;
+    display: inline;
+    font-size: 1.5em;
+    margin: 1%;
 }
 
-main {
-  display: flex;
+li a:hover {
+    background-color: #fda7df;
+    font-size: 1em;
+    color: #6D454C;
+    width: 6em;
+    border-radius: 45%;
+    padding: 0.1em;
+}
+
+main{
+    display: flex;
 }
 
 nav {
