@@ -11,6 +11,9 @@ header {
   display: flex;
   height: 120px;
 }
+#aqui {
+  color: #fda7df;
+}
 header div nav {
   color: white;
 }
