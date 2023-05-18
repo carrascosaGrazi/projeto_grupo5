@@ -35,15 +35,13 @@ header{
 ul {
     list-style: none;
     display: flex;
-    justify-content: flex-end;
-    margin-right: 5%;
     margin-bottom: 2%;
-
+    justify-content: space-evenly;
 }
 
 li {
     display: inline;
-    font-size: 1.2em;
+    font-size: 1.5em;
     margin: 1%;
 }
 
