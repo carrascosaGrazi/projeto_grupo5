@@ -21,10 +21,6 @@ header{
     color: white;
 }
 
-#aqui {
-    color: #fda7df;
-}
-
 #menu-principal{
     position: absolute;
     bottom: 1rem;
@@ -43,6 +39,15 @@ li {
     display: inline;
     font-size: 1.5em;
     margin: 1%;
+}
+
+li a:hover {
+    background-color: #fda7df;
+    font-size: 1em;
+    color: #6D454C;
+    width: 6em;
+    border-radius: 45%;
+    padding: 0.1em;
 }
 
 main{
