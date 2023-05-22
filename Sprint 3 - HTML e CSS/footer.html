@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="Header_Footer.css" />
+    <link rel="stylesheet" href="/Sprint 3 - HTML e CSS/Css/padronizar.css" />
+
+    <script>
+      function includeFooter() {
+        fetch("footer.html")
+          .then((response) => response.text())
+          .then((content) => {
+            document.getElementById("footer").innerHTML = content;
+          });
+      }
+    </script>
+  </head>
+  <body>
+    <footer id="footer">
+      <section id="footer-1">
+        <div id="coluna-3">
+          <h1 id="box-3">A ONG</h1>
+          <h3 class="boxes"><a href="" class="text-light">Sobre Nós</a></h3>
+          <h3 class="boxes"><a href="" class="text-light">Faça Parte</a></h3>
+          <h3 class="boxes"><a href="" class="text-light">Lojinha</a></h3>
+          <h3 class="boxes"><a href="" class="text-light">Contato</a></h3>
+        </div>
+        <div id="coluna-2">
+          <img
+            src="/Sprint 3 - HTML e CSS/imagens/2.png"
+            alt="logo amor com bigodes"
+            id="logo-acb"
+          />
+        </div>
+        <div id="coluna-1">
+          <h1 id="box-1">Amor com Bigodes</h1>
+          <h3 id="box-2">All Rights Reserved @ <br />amorcombigodes.com</h3>
+          <p id="box-logos">
+            <a href="" class="nav-link"
+              ><img id="crescer"
+                src="/Sprint 3 - HTML e CSS/imagens/logos-redes/email.png"
+                alt="logo-email"
+                class="logo-redes"
+            /></a>
+            <a href="" class="nav-link"
+              ><img
+                src="/Sprint 3 - HTML e CSS/imagens/logos-redes/facebook.png"
+                alt="logo-facebook"
+                class="logo-redes"
+            /></a>
+            <a href="" class="nav-link">
+              <img
+                src="/Sprint 3 - HTML e CSS/imagens/logos-redes/instagram.png"
+                alt="logo-instagram"
+                class="logo-redes"
+            /></a>
+          </p>
+        </div>
+      </section>
+    </footer>
+  </body>
+</html>
